@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+env/
+venv/
+
+# Models/Output
+*.safetensors
+*.ckpt
+*.pt
+*.bin
+*.png
+*.jpg
+output/
+outputs/
+weights/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
