@@ -1,0 +1,4 @@
+torch>=2.0
+diffusers>=0.21
+torchvision>=0.15
+Pillow>=10.0
